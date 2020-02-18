@@ -1,0 +1,9 @@
+{
+  "paths": {
+    "aplugin": "./"
+  },
+  "translations": [
+    "translations/zh-CN.json"
+  ]
+}
+

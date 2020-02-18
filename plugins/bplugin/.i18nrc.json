@@ -1,0 +1,9 @@
+{
+  "paths": {
+    "bplugin": "./"
+  },
+  "translations": [
+    "translations/zh-CN.json"
+  ]
+}
+

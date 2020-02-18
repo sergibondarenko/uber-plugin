@@ -1,0 +1,28 @@
+../uberplugin//plugins/aplugin/.i18nrc.json:3:    "aplugin": "./"
+../uberplugin//plugins/aplugin/index.js:10:    id: 'aplugin',
+../uberplugin//plugins/aplugin/index.js:11:    configPrefix: 'uberplugin.aplugin',
+../uberplugin//plugins/aplugin/index.js:18:        main: 'plugins/aplugin/app',
+../uberplugin//plugins/aplugin/index.js:36:        const featureId = 'aplugin';
+../uberplugin//plugins/aplugin/index.js:40:          name: i18n.translate('aplugin.featureRegistry.featureName', {
+../uberplugin//plugins/aplugin/index.js:41:            defaultMessage: 'aplugin',
+../uberplugin//plugins/aplugin/server/routes/example.js:3:    path: '/api/aplugin/example',
+../uberplugin//plugins/aplugin/README.md:1:# aplugin
+../uberplugin//plugins/aplugin/public/components/main/main.js:26:    httpClient.get('../api/aplugin/example').then(resp => {
+../uberplugin//plugins/aplugin/public/components/main/main.js:39:                  id="aplugin.helloWorldText"
+../uberplugin//plugins/aplugin/public/components/main/main.js:51:                    id="aplugin.congratulationsTitle"
+../uberplugin//plugins/aplugin/public/components/main/main.js:61:                    id="aplugin.congratulationsText"
+../uberplugin//plugins/aplugin/public/components/main/main.js:67:                    id="aplugin.serverTimeText"
+../uberplugin//plugins/aplugin/public/app.js:9:const app = uiModules.get('apps/aplugin');
+../uberplugin//plugins/aplugin/public/app.js:26:      <Main title="aplugin" httpClient={$http} />
+../uberplugin//plugins/aplugin/public/app.js:37:chrome.setRootController('aplugin', RootController);
+../uberplugin//plugins/aplugin/package.json:2:  "name": "aplugin"
+../uberplugin//plugins/aplugin/.eslintrc.js:7:        rootPackageName: 'aplugin',
+../uberplugin//plugins/aplugin/.eslintrc.js:18:            rootPackageName: 'aplugin',
+../uberplugin//plugins/aplugin/translations/zh-CN.json:79:    "aplugin.congratulationsText": "您已经成功创建第一个 Kibana 插件。",
+../uberplugin//plugins/aplugin/translations/zh-CN.json:80:    "aplugin.congratulationsTitle": "恭喜!",
+../uberplugin//plugins/aplugin/translations/zh-CN.json:81:    "aplugin.helloWorldText": "{title} 您好，世界！",
+../uberplugin//plugins/aplugin/translations/zh-CN.json:82:    "aplugin.serverTimeText": "服务器时间（通过 API 调用）为 {time}"
+../uberplugin//index.js:1:import aplugin from './plugins/aplugin';
+../uberplugin//index.js:2:import bplugin from './plugins/aplugin';
+../uberplugin//index.js:6:    aplugin(kibana),
+../uberplugin//bdump:25:../uberplugin//index.js:2:import bplugin from './plugins/aplugin';
